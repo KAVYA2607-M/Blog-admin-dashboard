@@ -185,11 +185,6 @@ To run this project
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### 👥 Authors <a name="authors"></a>
-
-👤 *Author1*
-
-- GitHub: [@stazrouti](https://github.com/stazrouti)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -211,8 +206,5 @@ If you like this project please give it a start and share it with your friends.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 📝 License <a name="license"></a>
 
-This project is [MIT](./MIT.md) licensed.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
