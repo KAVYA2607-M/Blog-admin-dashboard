@@ -31,7 +31,7 @@
 
 
 # 📖 Blog   <a name="about-project"></a>
-*[Blog]* Dynamic and user-friendly blog Dashboard, where we've harnessed the power of Laravel for back-end features and React for front-end Dashboard, all wrapped in a sleek and modern design courtesy of Tailwind CSS.
+*[Blog]* Dynamic and user-friendly blog Dashboard, where we've harnessed the power of Laravel  React for front-end Dashboard, all wrapped in a sleek and modern design courtesy of Tailwind CSS.
 
 
 
