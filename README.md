@@ -83,13 +83,13 @@
 <br>
 <h3 align='center'>Login Page 🏡</h3>
 <div align='center'>
-<img src='https://raw.githubusercontent.com/stazrouti/React-Blog-Admin/main/public/Blog-img/admin login.png'/>
+<img src='https://raw.githubusercontent.com/React-Blog-Admin/main/public/Blog-img/admin login.png'/>
 </div>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <h3 align='center'>Dashboard Page 🏡</h3>
 <div align='center'>
-<img src='https://raw.githubusercontent.com/stazrouti/React-Blog-Admin/main/public/Blog-img/dashboard.jpeg'/>
+<img src='https://raw.githubusercontent.comReact-Blog-Admin/main/public/Blog-img/dashboard.jpeg'/>
 </div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -103,14 +103,14 @@
 
 <h3 align='center'>New post Page 🏡</h3>
 <div align='center'>
-<img src='https://raw.githubusercontent.com/stazrouti/React-Blog-Admin/main/public/Blog-img/new post.jpeg'/>
+<img src='https://raw.githubusercontent.com/React-Blog-Admin/main/public/Blog-img/new post.jpeg'/>
 </div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <h3 align='center'>Post details page 🏡</h3>
 <div align='center'>
-<img src='https://raw.githubusercontent.com/stazrouti/React-Blog-Admin/main/public/Blog-img/post info.jpeg'/>
+<img src='https://raw.githubusercontent.com/React-Blog-Admin/main/public/Blog-img/post info.jpeg'/>
 </div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -126,7 +126,7 @@
 
 <h3 align='center'>Categories page 🏡</h3>
 <div align='center'>
-<img src='https://raw.githubusercontent.com/stazrouti/React-Blog-Admin/main/public/Blog-img/categories.jpeg'/>
+<img src='https://raw.githubusercontent.com/React-Blog-Admin/main/public/Blog-img/categories.jpeg'/>
 </div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -134,7 +134,7 @@
 
 <h3 align='center'>Accounts page 🏡</h3>
 <div align='center'>
-<img src='https://raw.githubusercontent.com/stazrouti/React-Blog-Admin/main/public/Blog-img/Accounts.jpeg'/>
+<img src='https://raw.githubusercontent.com/React-Blog-Admin/main/public/Blog-img/Accounts.jpeg'/>
 </div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -155,21 +155,11 @@ To get a local copy up and running, follow these steps.
 
 ### Setup
 
-Clone this repository to your desired folder:
-https://github.com/stazrouti/React-Blog-Admin.git
- Example commands:
-
-sh
-  cd my-folder
-https://github.com/stazrouti/React-Blog-Admin.git
-
-
-### Install
 
 Install this project with:
 
 ` cd React-Blog-Admin
-  - Run npm install v
+  - Run npm install 
 
 
 
