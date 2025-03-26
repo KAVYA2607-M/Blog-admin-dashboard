@@ -96,7 +96,7 @@
 
 <h3 align='center'>Posts Page 🏡</h3>
 <div align='center'>
-<img src='https://raw.githubusercontent.com/stazrouti/React-Blog-Admin/main/public/Blog-img/posts.jpeg'/>
+<img src='https://raw.githubusercontent.com/React-Blog-Admin/main/public/Blog-img/posts.jpeg'/>
 </div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -118,7 +118,7 @@
 
 <h3 align='center'>Update post page 🏡</h3>
 <div align='center'>
-<img src='https://raw.githubusercontent.com/stazrouti/React-Blog-Admin/main/public/Blog-img/update posts info.jpeg'/>
+<img src='https://raw.githubusercontent.com/React-Blog-Admin/main/public/Blog-img/update posts info.jpeg'/>
 </div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
