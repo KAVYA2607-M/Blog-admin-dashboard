@@ -1,4 +1,6 @@
 /* eslint-disable no-unused-vars */
+/* eslint-disable react/prop-types */
+/* eslint-disable react-hooks/exhaustive-deps */
 import React, { useState, useEffect } from "react";
 import AdminLayout from "../../layouts/AdminLayout";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
@@ -46,7 +48,7 @@ function Dashboard() {
     TotalComment: 2,
     TotalLikes: 10,
     TotalVisits: 2,
-    TotalUsers: 5,
+    TotalUsers: 2,
     MonthlyVisits: [1,5,10,15,20,25,30,35,40,45,50,55],
     MonthlyPosts: [5,10,15,20,25,30,35,40,45,50,55,60],
     MonthlyComments: [],

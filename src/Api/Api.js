@@ -1,5 +1,4 @@
-import { useState } from "react";
-import { Navigate } from "react-router-dom";
+ 
 
 /* this is the backend url */
 function Domain() {
@@ -37,14 +36,16 @@ export  function AdminName(){
 });*/
 
 export function Logout()
-{
-  sessionStorage.clear();
+{ 
+  // sessionStorage.clear();
 
-  window.addEventListener("beforeunload", function (event) {
+  // window.addEventListener("beforeunload", function (event) {
 
-    localStorage.removeItem('authToken');
-  });
-  window.location.href = "http://localhost:3000/Login";
+  //   localStorage.removeItem('authToken');
+  // });
+  // window.location.href = window.location.origin.includes("localhost")
+  // ? "http://localhost:3000/#/Login"
+  // : "https://kavya2607-m.github.io/Blog-admin-dashboard/";
 
 }
 /* const api = axios.create({
